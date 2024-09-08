@@ -2,9 +2,10 @@
   "name": "clone-me",
   "displayName": "Clone Me - Follow Along",
   "description": "Easily follow and share code in educational settings by cloning repositories as submodules",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "repository": "https://github.com/PahVenture/clone-me-vscode",
   "publisher": "pahventure",
+  "icon": "images/logo.jpg",
   "engines": {
     "vscode": "^1.60.0"
   },
